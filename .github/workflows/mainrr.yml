@@ -60,7 +60,7 @@ jobs:
   # You may pin to the exact commit or the version.
   # uses: redhat-actions/oc-installer@a129dec08aa1cd54ee1e0ac0ebcfbf7b12720582
       -uses: redhat-actions/oc-installer@v1
-      -with:
+      run with:
     # "oc version to install. It can be a version (eg. 4.6) or a URL pointing to an oc download.
         If left blank, the latest oc is installed."
 
