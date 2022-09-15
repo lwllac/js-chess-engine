@@ -56,6 +56,4 @@ jobs:
     # Used to specify the path to a dependency file: package-lock.json, yarn.lock, etc. Supports wildcards or a list of file names for caching multiple dependencies.
     cache-dependency-path: # optional
     
-    - name: OpenShift Client Installer
-  # You may pin to the exact commit or the version.
-  # uses: redhat-actions/oc-installer@a129dec08aa1cd54ee1e0ac0ebcfbf7b12720582
+    
